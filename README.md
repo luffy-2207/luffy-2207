@@ -1,6 +1,6 @@
 # Hi, I'm Manish! 👋  
 
-🚀 **Developer | IoT Enthusiast | Python & FastAPI Explorer**  
+🚀 **Developer | IoT | Python & FastAPI Explorer**  
 
 Welcome to my GitHub profile! I'm passionate about creating innovative tech solutions that bridge the gap between software and hardware. My work focuses on developing efficient, scalable applications and IoT systems.
 
