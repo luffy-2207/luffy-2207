@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative tech solu
 
 ## ✨ **Featured Projects**
 
-### 🌤 [**Weather App (API Integration)**](https://github.com/manish2207/weather-now)
+### 🌤 [**Weather App (API Integration)**](https://github.com/luffy-2207/weather-now)
 A real-time weather application that fetches current weather data using an external API and displays detailed forecasts.
 
 ### 💳 [**Expense Tracker**](https://github.com/manish2207/expense-tracker)
